@@ -1,0 +1,39 @@
+{"quizlist":[
+
+  {
+//    "imagen":"",
+    "question":"What is the capital of Spain?",
+    "option1":"Madrid",
+    "option2":"Barcelona",
+    "option3":"Valencia"
+  },
+  {
+//    "imagen":"",
+    "question":"What is the capital of Germany?",
+    "option1":"Berlin",
+    "option2":"Munich",
+    "option3":"Frankfurt"
+  },
+  {
+//    "imagen":"",
+    "question":"What is the capital of Brazil?",
+    "option1":"Brasilia",
+    "option2":"Rio de Janeiro",
+    "option3":"São Paulo"
+  },
+  {
+//    "imagen":"",
+    "question":"What is the capital of Australia?",
+    "option1":"Canberra",
+    "option2":"Sídney",
+    "option3":"Melbourne"
+  },
+  {
+//    "imagen":"",
+    "question":"What is the capital of France?",
+    "option1":"Paris",
+    "option2":"Marsella",
+    "option3":"Lyon"
+  }
+]
+}
