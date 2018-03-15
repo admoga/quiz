@@ -18,7 +18,7 @@ class Translation
 
         "en" => [
             'play' => 'play',
-            'language' => 'idioma',
+            'language' => 'language',
             'score' => 'score',
             'try again' => 'try again',
             'correct!' => 'correct!',
