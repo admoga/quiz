@@ -13,16 +13,18 @@ class Translation
             'score' => 'puntuación',
             'try again' => 'inténtalo de nuevo',
             'correct!' => 'correcto!',
-            'incorrect' => 'incorrecto'
+            'incorrect' => 'incorrecto',
+            'exit' => 'salir'
         ],
 
         "en" => [
             'play' => 'play',
-            'language' => 'idioma',
+            'language' => 'language',
             'score' => 'score',
             'try again' => 'try again',
             'correct!' => 'correct!',
-            'incorrect' => 'incorrect'
+            'incorrect' => 'incorrect',
+            'exit' => 'exit'
          ],
 
         "pt" => [
@@ -31,7 +33,8 @@ class Translation
             'score' => 'pontuação',
             'try again' => 'tente novamente',
             'correct!' => 'correct!',
-            'incorrect' => 'incorrect'
+            'incorrect' => 'incorrect',
+            'exit' => 'sair'
         ]
     ];
 }

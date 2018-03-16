@@ -5,7 +5,6 @@
     $tranlations = Translation::$translations;
     
     $lang = $_GET['lang'];
-    echo $lang;
 ?>
 <html>
 <head>
