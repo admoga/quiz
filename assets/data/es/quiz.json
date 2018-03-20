@@ -1,7 +1,6 @@
 {"quizlist":[
 
   {
-    //    "imagen":"",
     "question":"¿Cuál es la capital de España?",
     "option1":"Madrid",
     "option2":"Barcelona",
@@ -9,7 +8,6 @@
     "option4":"Bilbao"
   },
   {
-    //    "imagen":"",
     "question":"¿Cuál es la capital de Alemania?",
     "option1":"Berlin",
     "option2":"Munich",
@@ -17,7 +15,6 @@
     "option4":"Stuttgart"
   },
   {
-    //    "imagen":"",
     "question":"¿Cuál es la capital de Brasil?",
     "option1":"Brasilia",
     "option2":"Rio de Janeiro",
@@ -25,7 +22,6 @@
     "option4":"Porto Alegre"
   },
   {
-    //    "imagen":"",
     "question":"¿Cuál es la capital de Australia?",
     "option1":"Canberra",
     "option2":"Sídney",
@@ -33,7 +29,6 @@
     "option4":"Darwin"
   },
   {
-    //    "imagen":"",
     "question":"¿Cuál es la capital de Francia?",
     "option1":"Paris",
     "option2":"Marsella",

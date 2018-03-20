@@ -1,7 +1,6 @@
 {"quizlist":[
 
   {
-//    "imagen":"",
     "question":"Qual a capital da Espanha?",
     "option1":"Madrid",
     "option2":"Barcelona",
@@ -9,7 +8,6 @@
     "option4":"Bilbao"
   },
   {
-//    "imagen":"",
     "question":"Qual é a capital da Alemanha?",
     "option1":"Berlin",
     "option2":"Munich",
@@ -17,7 +15,6 @@
     "option4":"Stuttgart"
   },
   {
-//    "imagen":"",
     "question":"Qual é a capital do Brasil?",
     "option1":"Brasilia",
     "option2":"Rio de Janeiro",
@@ -25,7 +22,6 @@
     "option4":"Porto Alegre"
   },
   {
-//    "imagen":"",
     "question":"Qual é a capital da Austrália?",
     "option1":"Canberra",
     "option2":"Sídney",
@@ -33,7 +29,6 @@
     "option4":"Darwin"
   },
   {
-//    "imagen":"",
     "question":"Qual é a capital da França?",
     "option1":"Paris",
     "option2":"Marsella",
