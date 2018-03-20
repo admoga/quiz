@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-    <title>Quizz Celebrities</title>
+    <title>Quiz Celebrities</title>
 </head>
 <body>
 <div align="center">

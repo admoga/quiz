@@ -23,6 +23,6 @@ $score = $_GET['score'];
         }
     ?>
 </div>
-<div>
-    <a href="quiz.php?lang=<?php echo $lang ?>" class="button"><?php echo $tranlations[$lang]["try again"]?></a>
+<div align="center">
+    <a href="quiz.php?lang=<?php echo $lang ?>"><input type="button" class="option" value="<?php echo $tranlations[$lang]["try again"];?>"></a>
 </div>

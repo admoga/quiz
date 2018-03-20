@@ -72,6 +72,7 @@ $(document).ready(function () {
 
         $(stage).append('<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div><br><div class="questionText">'+questionBank[questionNumber][0]+'</div><div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div><div id="3" class="option">'+q3+'</div>');
 
+        //function to answer the questions
         $('.option').click(function(){
             if(questionLock==false){questionLock=true;
                 //correct answer
