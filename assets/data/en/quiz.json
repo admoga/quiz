@@ -4,36 +4,31 @@
     "question":"What is the capital of Spain?",
     "option1":"Madrid",
     "option2":"Barcelona",
-    "option3":"Valencia",
-    "option4":"Bilbao"
+    "option3":"Valencia"
   },
   {
     "question":"What is the capital of Germany?",
     "option1":"Berlin",
     "option2":"Munich",
-    "option3":"Frankfurt",
-    "option4":"Stuttgart"
+    "option3":"Frankfurt"
   },
   {
     "question":"What is the capital of Brazil?",
     "option1":"Brasilia",
     "option2":"Rio de Janeiro",
-    "option3":"São Paulo",
-    "option4":"Porto Alegre"
+    "option3":"São Paulo"
   },
   {
     "question":"What is the capital of Australia?",
     "option1":"Canberra",
     "option2":"Sídney",
-    "option3":"Melbourne",
-    "option4":"Darwin"
+    "option3":"Melbourne"
   },
   {
     "question":"What is the capital of France?",
     "option1":"Paris",
     "option2":"Marsella",
-    "option3":"Lyon",
-    "option4":"Niza"
+    "option3":"Lyon"
   }
 ]
 }
