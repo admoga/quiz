@@ -70,7 +70,7 @@ $(document).ready(function () {
             q2=questionBank[questionNumber][3];
         }
 
-        $(stage).append('<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div><br><div class="questionText">'+questionBank[questionNumber][0]+'</div><div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div><div id="3" class="option">'+q3+'</div>');
+        $(stage).append('<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div><br><div class="questionText">'+questionBank[questionNumber][0]+'</div><br><div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div><div id="3" class="option">'+q3+'</div>');
 
         //function to answer the questions
         $('.option').click(function(){
@@ -78,13 +78,13 @@ $(document).ready(function () {
                 //correct answer
                 if(this.id==rnd){
                     $(this).css("background-color", "#00ca00");
-                    $(stage).append('<div class="feedback1"><img src="/assets/img/icon_ok.png">Correcto</div>');
+                    $(stage).append('<div class="feedback1"><img src="/assets/img/icon_ok.png"></div>');
                     score++;
                 }
                 //wrong answer
                 if(this.id!=rnd){
                     $(this).css("background-color", "#e30613");
-                    $(stage).append('<div class="feedback2"><img src="/assets/img/icon_ko.png">Incorrecto</div>');
+                    $(stage).append('<div class="feedback2"><img src="/assets/img/icon_ko.png"></div>');
                 }
                 setTimeout(function(){
                     changeQuestion()
@@ -107,12 +107,11 @@ $(document).ready(function () {
         }else{
             displayFinalSlide();
         }
-
-
     }
 
     function displayFinalSlide() {
         $(stage).load("results.php?lang="+lang+"&score="+score);
+        // $("body").css("background-color","#000");
     }
 
 });
