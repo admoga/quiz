@@ -23,6 +23,7 @@ $(document).ready(function () {
             questionBank[i][1]=data.quizlist[i].option1;
             questionBank[i][2]=data.quizlist[i].option2;
             questionBank[i][3]=data.quizlist[i].option3;
+            questionBank[i][4]=data.quizlist[i].picture;
         }
         numberOfQuestions=questionBank.length;
         disorder();
@@ -31,7 +32,7 @@ $(document).ready(function () {
 
     //function to disorder the questions
     function disorder(){
-        for(i=0;i<50;i++){
+        for(i=0; i<50; i++){
             var rnd1=Math.floor(Math.random()*questionBank.length);
             var rnd2=Math.floor(Math.random()*questionBank.length);
 
@@ -57,7 +58,6 @@ $(document).ready(function () {
             q1=questionBank[questionNumber][1];
             q2=questionBank[questionNumber][2];
             q3=questionBank[questionNumber][3];
-
         }
         if(rnd==2){
             q2=questionBank[questionNumber][1];
@@ -70,7 +70,12 @@ $(document).ready(function () {
             q2=questionBank[questionNumber][3];
         }
 
-        $(stage).append('<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div><br><div class="questionText">'+questionBank[questionNumber][0]+'</div><br><div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div><div id="3" class="option">'+q3+'</div>');
+        $(stage).append('<div id="container"> ' +
+            '<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div>' +
+            '<div id="picture"><img id="image" src="'+ questionBank[questionNumber][4] +'">' +
+            '</div><div id="container2"><div class="questionText">'+questionBank[questionNumber][0]+'</div><br>' +
+            '<div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div>' +
+            '<div id="3" class="option">'+q3+'</div></div></div>');
 
         //function to answer the questions
         $('.option').click(function(){
@@ -78,13 +83,13 @@ $(document).ready(function () {
                 //correct answer
                 if(this.id==rnd){
                     $(this).css("background-color", "#00ca00");
-                    $(stage).append('<div class="feedback1"><img src="/assets/img/icon_ok.png"></div>');
+                    $("#container").append('<div class="feedback1"><img src="/assets/img/icon_ok.png"></div>');
                     score++;
                 }
                 //wrong answer
                 if(this.id!=rnd){
                     $(this).css("background-color", "#e30613");
-                    $(stage).append('<div class="feedback2"><img src="/assets/img/icon_ko.png"></div>');
+                    $("#container").append('<div class="feedback2"><img src="/assets/img/icon_ko.png"></div>');
                 }
                 setTimeout(function(){
                     changeQuestion()
@@ -109,9 +114,9 @@ $(document).ready(function () {
         }
     }
 
+    //Results
     function displayFinalSlide() {
         $(stage).load("results.php?lang="+lang+"&score="+score);
-        // $("body").css("background-color","#000");
     }
 
 });

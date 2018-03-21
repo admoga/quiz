@@ -15,36 +15,23 @@ html, body{
     margin: 0;
 }
 
-.feedback1 {
-    width: auto;
-    max-width: 100%;
-    padding: 5px;
-    font-size: 30px;
-    color: #00ca00;
-    text-align: center;
-    margin: 0 auto;
-    font-family: pizarra;
-}
-
-.feedback2 {
-    font-family: pizarra;
-    width: auto;
-    max-width: 100%;
-    padding: 5px;
-    font-size: 30px;
-    color: #e30613;
-    text-align: center;
-    margin: 0 auto;
-    margin-right: auto;
-    margin-left: auto;
-}
-
 #navContent {
     margin: auto;
     width: 100%;
     height: 100%;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
+}
+
+#picture{
+    position: relative;
+    top: 65px;
+}
+
+#container{
+    width: 100%;
+    height: 700px;
+    overflow-x: hidden;
 }
 
 #game1 {
@@ -53,10 +40,17 @@ html, body{
     right: 0;
     position: absolute;
     text-align: center;
-    overflow: hidden;
-
+    overflow-x: hidden;
 }
 
+#game2 {
+    width: 100%;
+    height: 100%;
+    right: -100%;
+    position: absolute;
+    text-align: center;
+    overflow-x: hidden;
+}
 
 #numeration {
     color: black;
@@ -70,7 +64,9 @@ html, body{
     border-radius: 80px;
     font-family: pizarra;
     margin-right: 10px;
-
+    position: absolute;
+    top: 55px;
+    right: 0;
 }
 
 .questionText {
@@ -80,9 +76,10 @@ html, body{
     font-family: Roboto_Bold;
     width: 100%;
     overflow-y: hidden;
-    margin-top: 20%;
     padding-left: 5px;
     padding-right: 5px;
+    position: relative;
+    top: 65px;
 }
 
 .results {
@@ -91,10 +88,25 @@ html, body{
     height: 100%;
     padding-right: 3%;
     padding-left: 3%;
+    overflow: hidden;
 }
 
 #nota{
     color: #37b3e7;
+}
+
+.feedback1{
+    position: relative;
+    top: 65px;
+}
+
+.feedback2{
+    position: relative;
+    top: 65px;
+}
+
+#container2{
+    display: inline-block;
 }
 
 .option {
@@ -111,6 +123,8 @@ html, body{
     border-radius: 4px;
     vertical-align: middle;
     background-size: 100% 100%;
+    position: relative;
+    top: 65px;
 }
 
 .exit {
@@ -149,15 +163,6 @@ html, body{
     background-size: 100% 100%;
 }
 
-#game2 {
-    width: 100%;
-    height: 100%;
-    right: -100%;
-    position: absolute;
-    text-align: center;
-    overflow: hidden;
-}
-
 @media (max-width: 800px) {
 
     .questionText {
@@ -188,7 +193,7 @@ html, body{
         width: 100%;
         height: 100%;
         position: relative;
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
 }
