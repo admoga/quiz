@@ -41,7 +41,7 @@ $(document).ready(function () {
             questionBank[rnd2]=temp;
 
         }
-        numberOfQuestions = 5;
+        numberOfQuestions = 10;
     }
 
     //function to show the question
@@ -71,7 +71,8 @@ $(document).ready(function () {
         }
 
         $(stage).append('<div id="container"> ' +
-            '<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div>' +
+            '<div id="header"><a href="start.php?lang='+lang+'"><img src="/assets/img/logo.png"></a>' +
+            '<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div></div>' +
             '<div id="picture"><img id="image" src="'+ questionBank[questionNumber][4] +'">' +
             '</div><div id="container2"><div class="questionText">'+questionBank[questionNumber][0]+'</div><br>' +
             '<div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div>' +

@@ -21,8 +21,6 @@
 <body>
 
     <div id="navContent" align="center">
-        <a href="start.php?lang=<?php echo $lang; ?>"><input type="button" class="exit" value="<?php echo $tranlations[$lang]["exit"];?>"></a>
-
         <div id="game1"></div>
         <div id="game2"></div>
     </div>

@@ -25,7 +25,7 @@ html, body{
 
 #picture{
     position: relative;
-    top: 65px;
+    top: 30px;
 }
 
 #container{
@@ -43,6 +43,21 @@ html, body{
     overflow-x: hidden;
 }
 
+#start {
+    background-color: hotpink;
+    width: 95%;
+    margin: 5px auto;
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: Roboto_Bold;
+    display: block;
+}
+
 #game2 {
     width: 100%;
     height: 100%;
@@ -53,20 +68,18 @@ html, body{
 }
 
 #numeration {
-    color: black;
+    color: darkslategrey;
     font-size: 15px;
     width: 75px;
     text-align: center;
     background-repeat: no-repeat;
-    padding: 3px;
-    float: right;
-    border: 3px solid #37b3e7;
+    border: 3px solid #FFFFFF;
     border-radius: 80px;
     font-family: pizarra;
-    margin-right: 10px;
-    position: absolute;
-    top: 55px;
-    right: 0;
+    margin: 5px;
+    position: relative;
+    float: right;
+    padding: 5px 1px 5px 1px;
 }
 
 .questionText {
@@ -92,7 +105,28 @@ html, body{
 }
 
 #nota{
-    color: #37b3e7;
+    color: hotpink;
+}
+
+#language{
+    color: white;
+    font-family: Roboto_Bold;
+    text-align: end;
+    position: relative;
+    top: 5px;
+    right: 10px;
+}
+
+#lng{
+    text-decoration: none;
+    color: white;
+}
+
+#starter{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 
 .feedback1{
@@ -113,11 +147,11 @@ html, body{
     float: left;
     margin: 1.33%;
     width: 30%;
-    padding: 10px 1px 1px 1px;
+    padding: 5px 1px 5px 1px;
     font-size: 17px;
     color: white;
     cursor: pointer;
-    background-color: #37b3e7;
+    background-color: hotpink;
     font-weight: bold;
     text-align: center;
     border-radius: 4px;
@@ -127,40 +161,31 @@ html, body{
     top: 65px;
 }
 
-.exit {
-    float: left;
-    margin: 1.33%;
-    width: 5%;
-    padding: 5px 1px 1px 1px;
-    font-size: 17px;
-    color: white;
-    cursor: pointer;
-    background-color: #37b3e7;
-    font-weight: bold;
-    text-align: center;
-    border-radius: 4px;
-    vertical-align: middle;
-    background-size: 100% 100%;
-    z-index: 100;
-
-    left: 5px;
-    position: relative;
-    top: 5px;
-}
-
-.again {
+#btn {
     margin: 1.33%;
     width: 30%;
     padding: 10px 1px 1px 1px;
     font-size: 17px;
     color: white;
     cursor: pointer;
-    background-color: #37b3e7;
+    background-color: hotpink;
     font-weight: bold;
     text-align: center;
     border-radius: 4px;
     vertical-align: middle;
     background-size: 100% 100%;
+}
+
+#header{
+    background-color: hotpink;
+    float: left;
+    width: 100%;
+}
+
+#header img{
+    float: left;
+    max-width: 40%;
+    padding: 5px 1px 5px 1px;
 }
 
 @media (max-width: 800px) {
@@ -194,6 +219,24 @@ html, body{
         height: 100%;
         position: relative;
         overflow-x: hidden;
+    }
+
+    #header{
+        background-color: hotpink;
+        float: left;
+        width: 100%;
+    }
+
+    #header img{
+        float: left;
+        max-width: 55%;
+    }
+
+
+    #numeration {
+        width: 50px;
+        margin-right: 10px;
+
     }
 
 }

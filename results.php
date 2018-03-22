@@ -11,7 +11,7 @@ $score = $_GET['score'];
 <div class="results">
     <p id="nota"><span id="nota"><b><?php echo $tranlations[$lang]["your result"]?></b> </span></p>
     <img src="assets/img/trophy.png"><br>
-    <p id="firstSentence"><b><?php echo $score?><span style="color: #37b3e7"> <?php echo $tranlations[$lang]["correct answers of"]?> </span>10<span style="color: #37b3e7"> <?php echo $tranlations[$lang]["questions"]?> </span></b></p><br>
+    <p id="firstSentence"><b><?php echo $score?><span style="color: hotpink"> <?php echo $tranlations[$lang]["correct answers of"]?> </span>10<span style="color: hotpink"> <?php echo $tranlations[$lang]["questions"]?> </span></b></p><br>
     <?php
         if ($score<5){
             echo "<p id='lastSentence'><b>".$tranlations[$lang]["sorry, get a higher score next time"]."</b></p>";
@@ -26,7 +26,7 @@ $score = $_GET['score'];
 
 
     <div align="center">
-        <a href="quiz.php?lang=<?php echo $lang ?>"><input type="button" class="again" value="<?php echo $tranlations[$lang]["try again"];?>"></a>
+        <a href="quiz.php?lang=<?php echo $lang ?>"><input type="button" id="btn" value="<?php echo $tranlations[$lang]["try again"];?>"></a>
     </div>
 </div>
 

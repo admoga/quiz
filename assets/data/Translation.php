@@ -8,8 +8,8 @@ class Translation
     public static $translations = [
 
         "es" => [
-            'play' => 'jugar',
-            'language' => 'idioma',
+            'play' => 'JUGAR',
+            'language' => 'IDIOMA',
             'score' => 'puntuación',
             'try again' => 'inténtalo de nuevo',
             'correct!' => 'correcto!',
@@ -25,8 +25,8 @@ class Translation
         ],
 
         "en" => [
-            'play' => 'play',
-            'language' => 'language',
+            'play' => 'PLAY',
+            'language' => 'LANGUAGE',
             'score' => 'score',
             'try again' => 'try again',
             'correct!' => 'correct!',
@@ -42,8 +42,8 @@ class Translation
         ],
 
         "pt" => [
-            'play' => 'jogar',
-            'language' => 'língua',
+            'play' => 'JOGAR',
+            'language' => 'LÍNGUA',
             'score' => 'pontuação',
             'try again' => 'tente novamente',
             'correct!' => 'correct!',

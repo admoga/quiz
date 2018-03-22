@@ -1,38 +1,143 @@
 {"quizlist":[
-
   {
-    "question":"¿Cuál es la capital de España?",
-    "option1":"Madrid",
-    "option2":"Barcelona",
-    "option3":"Valencia",
-    "picture":"/assets/img/quiz.png"
+    "question":"¿Qué escándalo fue el que inició el imperio que actualmente posee la familia Kardashian?",
+    "option1":"Por un video pornográfico",
+    "option2":"Un desfalco fiscal",
+    "option3":"Una actuación embarazosa",
+    "picture":"/assets/img/img_01.jpg"
   },
   {
-    "question":"¿Cuál es la capital de Alemania?",
-    "option1":"Berlin",
-    "option2":"Munich",
-    "option3":"Frankfurt",
-    "picture":"/assets/img/quiz.png"
+    "question":"¿Junto a quien grabo un video sexual Kim Kardashian?",
+    "option1":"Ray J",
+    "option2":"Jay-Z",
+    "option3":"Brad Pitt",
+    "picture":"/assets/img/img_02.jpg"
   },
   {
-    "question":"¿Cuál es la capital de Brasil?",
-    "option1":"Brasilia",
-    "option2":"Rio de Janeiro",
-    "option3":"São Paulo",
-    "picture":"/assets/img/quiz.png"
+    "question":"¿Qué conocido travesti de Hollywood asegura que Charlie Sheen organizaba orgías de hasta 50 personas?",
+    "option1":"Sham Ibrahim",
+    "option2":"About Ray",
+    "option3":"Laverne Cox",
+    "picture":"/assets/img/img_03.jpg"
   },
   {
-    "question":"¿Cuál es la capital de Australia?",
-    "option1":"Canberra",
-    "option2":"Sídney",
-    "option3":"Melbourne",
-    "picture":"/assets/img/quiz.png"
+    "question":"¿Qué año Paris Hilton convirtió el escándalo como estilo de vida?",
+    "option1":"2006",
+    "option2":"2002",
+    "option3":"2011",
+    "picture":"/assets/img/img_04.jpg"
   },
   {
-    "question":"¿Cuál es la capital de Francia?",
-    "option1":"Paris",
-    "option2":"Marsella",
-    "option3":"Lyon",
-    "picture":"/assets/img/quiz.png"
+    "question":"¿En qué lugar detuvieron a Paris Hilton?",
+    "option1":"Las Vegas",
+    "option2":"Texas",
+    "option3":"Los Ángeles",
+    "picture":"/assets/img/img_05.jpg"
+  },
+  {
+    "question":"¿Qué locura hizo Britney Spears que dejo boquiabierto a todo el mundo?",
+    "option1":"Se rapo el pelo",
+    "option2":"Se operó los pechos",
+    "option3":"Posó desnuda",
+    "picture":"/assets/img/img_06.jpg"
+  },
+  {
+    "question":"¿Cuál fue el peor año de Britney Spears que la convirtió en una princesa venida a menos?",
+    "option1":"2007",
+    "option2":"2010",
+    "option3":"2003",
+    "picture":"/assets/img/img_07.jpg"
+  },
+  {
+    "question":"¿En qué película Johnny Depp llegó ebrio en su estreno?",
+    "option1":"Asesinato en el Orient Express",
+    "option2":"Alicia a través del espejo",
+    "option3":"Sherlock Gnomes",
+    "picture":"/assets/img/img_08.jpg"
+  },
+  {
+    "question":"¿Quién tuvo que amortajar Lindsay Lohan cuando fue castigada con servicios sociales a la comunidad y tuvo que trabajar en la morgue?",
+    "option1":"Whitney Houston",
+    "option2":"Amy Winehouse",
+    "option3":"Michael Jackson",
+    "picture":"/assets/img/img_09.jpg"
+  },
+  {
+    "question":"¿Quién fue el primer actor en señalar a Kevin Spacey por acosos?",
+    "option1":"Anthony Rapp",
+    "option2":"Roberto Cavazos",
+    "option3":"Harvey Weinstein",
+    "picture":"/assets/img/img_10.jpg"
+  },
+  {
+    "question":"¿Qué confeso Kevin Spacey tras ser acusado por acoso para que no se hablara del tema?",
+    "option1":"Que era gay",
+    "option2":"Que era alcohólico",
+    "option3":"Que era drogadicto",
+    "picture":"/assets/img/img_11.jpg"
+  },
+  {
+    "question":"¿Qué compañía para la que trabajaba Kevin Spacey lo despidió por el escándalo sexual?",
+    "option1":"Netflix",
+    "option2":"Fox",
+    "option3":"Marvel",
+    "picture":"/assets/img/img_12.jpg"
+  },
+  {
+    "question":"¿En qué conocidos premios monto un escándalo Miley Cyrus?",
+    "option1":"MTV",
+    "option2":"EMMY",
+    "option3":"VMAS",
+    "picture":"/assets/img/img_13.jpg"
+  },
+  {
+    "question":"¿Con que cantante se quedó Miley Cyrus en ropa interior y se dedicó a lamerle en 2013?",
+    "option1":"Robin Thicke",
+    "option2":"Justin Bieber",
+    "option3":"Bruno Mars",
+    "picture":"/assets/img/img_14.jpg"
+  },
+  {
+    "question":"¿Qué año protagonizo Miley Cyrus un escandaló en los premios MTV?",
+    "option1":"2013",
+    "option2":"2010",
+    "option3":"2015",
+    "picture":"/assets/img/img_15.jpg"
+  },
+  {
+    "question":"¿En qué gira la cantante Rihanna se presentó en conciertos su gira borracha o drogada?",
+    "option1":"Diamond World Tour",
+    "option2":"Loud Tour",
+    "option3":"Anti World Tour",
+    "picture":"/assets/img/img_16.jpg"
+  },
+  {
+    "question":"¿En qué estado la cantante Rihanna se presentó en conciertos de su gira Diamond World Tour?",
+    "option1":"Borracha o drogada",
+    "option2":"Enfurecida",
+    "option3":"Cansada",
+    "picture":"/assets/img/img_17.jpg"
+  },
+  {
+    "question":"¿A qué edad Drew Barrymore tras su primer gran éxito en E.T. se hizo adicta a las drogas?",
+    "option1":"A los nueve años",
+    "option2":"A los quince años",
+    "option3":"A los dieciocho años",
+    "picture":"/assets/img/img_18.jpg"
+  },
+  {
+    "question":"¿En qué gala de los Oscar lucio Michelle Williams acertó este maravilloso vestido de Vera Wang en color mostaza que lució en la alfombra?",
+    "option1":"2006",
+    "option2":"2010",
+    "option3":"2003",
+    "picture":"/assets/img/img_19.jpg"
+  },
+  {
+    "question": "¿En qué gala de los Oscar paseó con elegancia Nicole Kidman este Balenciaga en rojo Valentino?",
+    "option1": "2007",
+    "option2": "2005",
+    "option3": "2011",
+    "picture": "/assets/img/img_20.jpg"
+  }
 ]
 }
