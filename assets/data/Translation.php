@@ -11,7 +11,7 @@ class Translation
             'play' => 'JUGAR',
             'language' => 'IDIOMA',
             'score' => 'puntuación',
-            'try again' => 'inténtalo de nuevo',
+            'try again' => 'volver a jugar',
             'correct!' => 'correcto!',
             'incorrect' => 'incorrecto',
             'exit' => 'salir',
@@ -45,7 +45,7 @@ class Translation
             'play' => 'JOGAR',
             'language' => 'LÍNGUA',
             'score' => 'pontuação',
-            'try again' => 'tente novamente',
+            'try again' => 'jogar de novo',
             'correct!' => 'correct!',
             'incorrect' => 'incorrect',
             'exit' => 'sair',
@@ -54,7 +54,7 @@ class Translation
             'questions' => 'questões',
             'sorry, get a higher score next time' => 'sinto muito, obter uma pontuação mais alta na próxima vez',
             'very good! try to improve later' => 'Muito bom! Tente melhorar depois',
-            'great! you are very intelligent' => 'Ótimo! você é muito inteligente',
+            'great! you are very intelligent!' => 'Ótimo! você é muito inteligente',
             'amazing! nobody knows more than you!' => 'Surpreendente! Ninguém sabe mais do que você!'
         ]
     ];
