@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ffe63e-0180-4e11-b431-3ca827c22324" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/splash_bg.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/english-flag.png" afterPath="$PROJECT_DIR$/assets/img/english-flag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/icon_ko.png" afterPath="$PROJECT_DIR$/assets/img/icon_ko.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/icon_ok.png" afterPath="$PROJECT_DIR$/assets/img/icon_ok.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/img_01.jpg" afterPath="$PROJECT_DIR$/assets/img/img_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/img_13.jpg" afterPath="$PROJECT_DIR$/assets/img/img_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/img_14.jpg" afterPath="$PROJECT_DIR$/assets/img/img_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/img_17.jpg" afterPath="$PROJECT_DIR$/assets/img/img_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/language_icon.png" afterPath="$PROJECT_DIR$/assets/img/language_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/portuguese-flag.png" afterPath="$PROJECT_DIR$/assets/img/portuguese-flag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/spanish-flag.png" afterPath="$PROJECT_DIR$/assets/img/spanish-flag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/trophy.png" afterPath="$PROJECT_DIR$/assets/img/trophy.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/controller.js" afterPath="$PROJECT_DIR$/assets/js/controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.php" afterPath="$PROJECT_DIR$/results.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/start.php" afterPath="$PROJECT_DIR$/start.php" />
     </list>
     <ignored path="pruebas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +45,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4288">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -72,7 +55,7 @@
       <file leaf-file-name="start.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="306">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
               <folding />
             </state>
@@ -82,7 +65,7 @@
       <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="1314">
               <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="64" />
               <folding />
             </state>
@@ -102,7 +85,7 @@
       <file leaf-file-name="quiz.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quiz.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="432">
               <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
@@ -112,7 +95,7 @@
       <file leaf-file-name="Translation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/data/Translation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="312">
               <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
               <folding />
             </state>
@@ -180,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -191,6 +173,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,56 +189,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -332,18 +265,19 @@
       <workItem from="1521810040344" duration="838000" />
       <workItem from="1522048203522" duration="3441000" />
       <workItem from="1522058544898" duration="19000" />
-      <workItem from="1522060913889" duration="14555000" />
+      <workItem from="1522060913889" duration="14648000" />
+      <workItem from="1522079110101" duration="2467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99427000" />
+    <option name="totallyTimeSpent" value="101987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="720" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30635402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -711,25 +645,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/data/Translation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/start.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="306">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
           <folding />
         </state>
@@ -737,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="1314">
           <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="64" />
           <folding />
         </state>
@@ -747,6 +665,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/Translation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -761,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4288">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
           <folding />
         </state>
       </provider>
