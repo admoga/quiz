@@ -71,7 +71,7 @@ $(document).ready(function () {
         }
 
         $(stage).append('<div id="container"> ' +
-            '<div id="header"><a href="start.php?lang='+lang+'"><img src="/assets/img/logo.png"></a>' +
+            '<div id="header"><a href="start.php?lang='+lang+'"><img id="header-img" src="/assets/img/logo.png"></a>' +
             '<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div></div>' +
             '<div id="picture"><img id="image" src="'+ questionBank[questionNumber][4] +'">' +
             '</div><div id="container2"><div class="questionText">'+questionBank[questionNumber][0]+'</div><br>' +

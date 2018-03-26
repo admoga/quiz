@@ -6,14 +6,19 @@
     
     $lang = $_GET['lang'];
 ?>
-<html style="background-color: black">
+<html>
 <head>
     <link href="/assets/css/style.css" rel="stylesheet" type="text/css"/>
     <title>Quiz Celebrities</title>
 </head>
-<body>
+<body id="cover">
 <div id="language">
     <a href="index.php"><img src="/assets/img/language_icon.png"/><i id="lng"><?php echo $tranlations[$lang]["language"];?></i></a>
+</div>
+<div id="container-logo" align="center">
+    <img id="logo-desktop" src="assets/img/main_desktop.png">
+    <img id="logo-phone" src="assets/img/main_phone.png">
+
 </div>
 <div id="starter">
     <a href="quiz.php?lang=<?php echo $lang ?>" id="start"><?php echo $tranlations[$lang]["play"];?></a>
