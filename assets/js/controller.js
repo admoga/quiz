@@ -41,7 +41,7 @@ $(document).ready(function () {
             questionBank[rnd2]=temp;
 
         }
-        numberOfQuestions = 10;
+        numberOfQuestions = 1;
     }
 
     //function to show the question
@@ -117,7 +117,8 @@ $(document).ready(function () {
 
     //Results
     function displayFinalSlide() {
-        $(stage).load("results.php?lang="+lang+"&score="+score);
+
+        $(stage).load("results.php?lang="+lang+"&score="+score+"&stage="+stage.substring(1));
     }
 
 });

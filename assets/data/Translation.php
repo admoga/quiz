@@ -11,7 +11,7 @@ class Translation
             'play' => 'JUGAR',
             'language' => 'IDIOMA',
             'score' => 'puntuación',
-            'try again' => 'volver a jugar',
+            'try again' => 'reintentar',
             'correct!' => 'correcto!',
             'incorrect' => 'incorrecto',
             'exit' => 'salir',

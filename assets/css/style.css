@@ -14,6 +14,54 @@ html, body{
     overflow-x: hidden;
     margin: 0;
 }
+
+#container-firstsentence{
+    height: 15%;
+    display: table;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+}
+
+#firstSentence{
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#container-trophy{
+    height: 50%;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+}
+
+#container-lastsentence{
+    display: table;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+    height: 10%;
+}
+
+#lastSentence{
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0;
+}
+
+#final-container{
+    height: 25%;
+    display: table;
+    width: 100%;
+}
+
+#btn-container{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
 #container-logo{
     width: 100%;
     height: 70%;
@@ -21,13 +69,23 @@ html, body{
     float: left;
 }
 
-.results {
+.results{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.container-results {
     position: fixed;
     width: 100%;
     height: 100%;
     color: white;
-    background-image: url("/assets/img/results_bg_desktop.jpg");
     background-size: 100% 100%;
+}
+
+#trophy{
+    max-width: 90%;
+    max-height: 95%;
 }
 
 #logo-desktop{
@@ -212,8 +270,8 @@ html, body{
 
 #btn {
     margin: 1.33%;
-    padding: 5px 1px 5px 1px;
-    font-size: 17px;
+    padding: 15px 1px 0 1px;
+    font-size: 24px;
     color: white;
     cursor: pointer;
     background-color: #eaa939;
@@ -225,6 +283,7 @@ html, body{
     text-decoration: none;
     display:inline-block;
     width: 45%;
+    height: 40px;
 }
 
 #header{
@@ -236,13 +295,34 @@ html, body{
 #header img{
     float: left;
     max-width: 40%;
-    padding: 5px 1px 5px 1px;
+
+}
+
+@media only screen and (min-device-width: 1px) and (max-device-width: 300px) {
+
+    #header img{
+        margin-top: 8px;
+
+    }
+}
+
+
+@media only screen and (min-device-width: 301px) and (max-device-width: 499px) {
+
+    #header img{
+        margin-top: 5px;
+
+    }
 }
 
 @media (max-width: 800px) {
 
     .questionText {
         font-size: 20px;
+    }
+
+    #btn{
+        font-size: 17px;
     }
 
     #cover{
@@ -255,9 +335,9 @@ html, body{
         background-size: 100% 100%;
     }
 
-    .results {
+    .container-results {
         color: white;
-        background-image: url("/assets/img/results_bg_phone.jpg");
+        /*background-image: url("/assets/img/results_bg_phone.jpg");*/
         background-size: 100% 100%;
         overflow-y: hidden;
     }
@@ -292,7 +372,8 @@ html, body{
 
     #header img{
         float: left;
-        max-width: 55%;
+        max-width: 65%;
+
     }
 
 
@@ -319,6 +400,12 @@ html, body{
         width: 25%;
     }
 
+}
+
+@media (max-height: 380px){
+    #btn{
+        height: 28px;
+    }
 }
 
 
