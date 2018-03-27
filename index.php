@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link href="/assets/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
     <title>Quiz Celebrities</title>
 </head>
 <body id="cover">

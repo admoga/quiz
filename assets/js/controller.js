@@ -71,7 +71,7 @@ $(document).ready(function () {
         }
 
         $(stage).append('<div id="container"> ' +
-            '<div id="header"><a href="start.php?lang='+lang+'"><img id="header-img" src="/assets/img/logo.png"></a>' +
+            '<div id="header"><a href="start.php?lang='+lang+'"><img id="header-img" src="assets/img/logo.png"></a>' +
             '<div id="numeration">'+ (questionNumber+1) +' / '+numberOfQuestions+'</div></div>' +
             '<div id="picture"><img id="image" src="'+ questionBank[questionNumber][4] +'">' +
             '</div><div id="container2"><div class="questionText">'+questionBank[questionNumber][0]+'</div><br>' +
@@ -84,13 +84,13 @@ $(document).ready(function () {
                 //correct answer
                 if(this.id==rnd){
                     $(this).css("background-color", "#00ca00");
-                    $("#container").append('<div class="feedback1"><img src="/assets/img/icon_ok.png"></div>');
+                    $("#container").append('<div class="feedback1"><img src="assets/img/icon_ok.png"></div>');
                     score++;
                 }
                 //wrong answer
                 if(this.id!=rnd){
                     $(this).css("background-color", "#e30613");
-                    $("#container").append('<div class="feedback2"><img src="/assets/img/icon_ko.png"></div>');
+                    $("#container").append('<div class="feedback2"><img src="assets/img/icon_ko.png"></div>');
                 }
                 setTimeout(function(){
                     changeQuestion()

@@ -4,140 +4,140 @@
     "option1":"A porn video",
     "option2":"Tax embezzlement",
     "option3":"An embarrassing situation",
-    "picture":"/assets/img/img_01.jpg"
+    "picture":"assets/img/img_01.jpg"
   },
   {
     "question":"With whom did Kim Kardashian shoot a sex tape?",
     "option1":"Ray J",
     "option2":"Jay-Z",
     "option3":"Brad Pitt",
-    "picture":"/assets/img/img_02.jpg"
+    "picture":"assets/img/img_02.jpg"
   },
   {
     "question":"Which famous Hollywood transvestite assures that Charlie Sheen organised orgies of up to 50 people?",
     "option1":"Sham Ibrahim",
     "option2":"About Ray",
     "option3":"Laverne Cox",
-    "picture":"/assets/img/img_03.jpg"
+    "picture":"assets/img/img_03.jpg"
   },
   {
     "question":"What year did Paris Hilton turn scandal into a lifestyle?",
     "option1":"2006",
     "option2":"2002",
     "option3":"2011",
-    "picture":"/assets/img/img_04.jpg"
+    "picture":"assets/img/img_04.jpg"
   },
   {
     "question":"Where was Paris Hilton arrested?",
     "option1":"Las Vegas",
     "option2":"Texas",
     "option3":"Los Ángeles",
-    "picture":"/assets/img/img_05.jpg"
+    "picture":"assets/img/img_05.jpg"
   },
   {
     "question":"What act of madness did Britney Spears commit that left everybody speechless?",
     "option1":"She shaved her hair off",
     "option2":"She had a boob job",
     "option3":"She posed nude",
-    "picture":"/assets/img/img_06.jpg"
+    "picture":"assets/img/img_06.jpg"
   },
   {
     "question":"What was the worst year for Britney Spears which led to the downfall of a princess?",
     "option1":"2007",
     "option2":"2010",
     "option3":"2003",
-    "picture":"/assets/img/img_07.jpg"
+    "picture":"assets/img/img_07.jpg"
   },
   {
     "question":"What movie did Johnny Depp turned up drunk at its premiere?",
     "option1":"Murder on the Orient Express",
     "option2":"Alice Through The Looking Glass",
     "option3":"Sherlock Gnomes",
-    "picture":"/assets/img/img_08.jpg"
+    "picture":"assets/img/img_08.jpg"
   },
   {
     "question":"Who did Lindsay Lohan have to wrap up in a shroud when she was sentenced to complete court-ordered community service and had to work in a morgue?",
     "option1":"Whitney Houston",
     "option2":"Amy Winehouse",
     "option3":"Michael Jackson",
-    "picture":"/assets/img/img_09.jpg"
+    "picture":"assets/img/img_09.jpg"
   },
   {
     "question":"Who was the first actor to accuse Kevin Spacey of harassment?",
     "option1":"Anthony Rapp",
     "option2":"Roberto Cavazos",
     "option3":"Harvey Weinstein",
-    "picture":"/assets/img/img_10.jpg"
+    "picture":"assets/img/img_10.jpg"
   },
   {
     "question":"What did Kevin Spacey confess to after being accused of harassment so that the subject matter was not discussed?",
     "option1":"That he was gay",
     "option2":"That he was an alcoholic",
     "option3":"That he was a drug addict",
-    "picture":"/assets/img/img_11.jpg"
+    "picture":"assets/img/img_11.jpg"
   },
   {
     "question":"What company did Kevin Spacey work for, and which fired him because of the sex scandal?",
     "option1":"Netflix",
     "option2":"Fox",
     "option3":"Marvel",
-    "picture":"/assets/img/img_12.jpg"
+    "picture":"assets/img/img_12.jpg"
   },
   {
     "question":"In which famous awards did a Miley Cyrus create a scandal?",
     "option1":"MTV",
     "option2":"EMMY",
     "option3":"VMAS",
-    "picture":"/assets/img/img_13.jpg"
+    "picture":"assets/img/img_13.jpg"
   },
   {
     "question":"Which singer did Miley Cyrus lick whilst in her underwear in 2013?",
     "option1":"Robin Thicke",
     "option2":"Justin Bieber",
     "option3":"Bruno Mars",
-    "picture":"/assets/img/img_14.jpg"
+    "picture":"assets/img/img_14.jpg"
   },
   {
     "question":"What year did Miley Cyrus cause a scandal at the MTV awards?",
     "option1":"2013",
     "option2":"2010",
     "option3":"2015",
-    "picture":"/assets/img/img_15.jpg"
+    "picture":"assets/img/img_15.jpg"
   },
   {
     "question":"Which tour did the singer Rihanna give concerts when drunk or drugged?",
     "option1":"Diamond World Tour",
     "option2":"Loud Tour",
     "option3":"Anti World Tour",
-    "picture":"/assets/img/img_16.jpg"
+    "picture":"assets/img/img_16.jpg"
   },
   {
     "question":"In what shape was the singer Rihanna in when she gave concerts during her “Diamond World Tour” tour?",
     "option1":"Drunk or drugged",
     "option2":"Irate",
     "option3":"Tired",
-    "picture":"/assets/img/img_17.jpg"
+    "picture":"assets/img/img_17.jpg"
   },
   {
     "question":"At what age did Drew Barrymore following her first big break in E.T. become addicted to drugs?",
     "option1":"Nine years old",
     "option2":"Fifteen years old",
     "option3":"Eighteen years old",
-    "picture":"/assets/img/img_18.jpg"
+    "picture":"assets/img/img_18.jpg"
   },
   {
     "question":"In which Academy Awards Ceremony did Michelle Williams shine in that wonderful mustard Vera Wang dress that she wore on the red carpet?",
     "option1":"2006",
     "option2":"2010",
     "option3":"2003",
-    "picture":"/assets/img/img_19.jpg"
+    "picture":"assets/img/img_19.jpg"
   },
   {
     "question": "In which Academy Awards Ceremony did Nicole Kidman elegantly wear that Balenciaga dress in Valentino red?",
     "option1": "2007",
     "option2": "2005",
     "option3": "2011",
-    "picture": "/assets/img/img_20.jpg"
+    "picture": "assets/img/img_20.jpg"
   }
 ]
 }

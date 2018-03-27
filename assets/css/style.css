@@ -1,11 +1,11 @@
 @font-face {
     font-family: Roboto_Bold;
-    src: url(/assets/fonts/RobotoSlab-Bold.ttf);
+    src: url(../fonts/RobotoSlab-Bold.ttf);
 }
 
 @font-face {
     font-family: pizarra;
-    src: url(/assets/fonts/Sriracha-Regular.ttf);
+    src: url(../fonts/Sriracha-Regular.ttf);
 }
 
 html, body{
@@ -109,7 +109,7 @@ html, body{
 }
 
 #cover{
-    background-image: url("/assets/img/results_bg_desktop.jpg");
+    background-image: url("../img/results_bg_desktop.jpg");
     background-size: 100% 100%;
 }
 
@@ -326,12 +326,12 @@ html, body{
     }
 
     #cover{
-        background-image: url("/assets/img/results_bg_phone.jpg");
+        background-image: url("../img/results_bg_phone.jpg");
         background-size: 100% 100%;
     }
 
     #image-logo{
-        background-image: url("/assets/img/main_phone.png");
+        background-image: url("../img/main_phone.png");
         background-size: 100% 100%;
     }
 

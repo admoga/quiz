@@ -4,140 +4,140 @@
     "option1":"Um vídeo pornográfico",
     "option2":"Um desfalque fiscal",
     "option3":"Uma atuação embaraçosa",
-    "picture":"/assets/img/img_01.jpg"
+    "picture":"assets/img/img_01.jpg"
   },
   {
     "question":"Com quem gravou Kim Kardashian um vídeo sexual?",
     "option1":"Ray J",
     "option2":"Jay-Z",
     "option3":"Brad Pitt",
-    "picture":"/assets/img/img_02.jpg"
+    "picture":"assets/img/img_02.jpg"
   },
   {
     "question":"Que famoso travesti de Hollywood garante que Charlie Sheen costumava organizar orgias de até 50 pessoas?",
     "option1":"Sham Ibrahim",
     "option2":"About Ray",
     "option3":"Laverne Cox",
-    "picture":"/assets/img/img_03.jpg"
+    "picture":"assets/img/img_03.jpg"
   },
   {
     "question":"Em que ano é que a Paris Hilton transformou o escândalo num estilo de vida?",
     "option1":"2006",
     "option2":"2002",
     "option3":"2011",
-    "picture":"/assets/img/img_04.jpg"
+    "picture":"assets/img/img_04.jpg"
   },
   {
     "question":"Onde é que a Paris Hilton foi presa?",
     "option1":"Las Vegas",
     "option2":"Texas",
     "option3":"Los Ángeles",
-    "picture":"/assets/img/img_05.jpg"
+    "picture":"assets/img/img_05.jpg"
   },
   {
     "question":"Que loucura fez a Britney Spears que deixou a todos boquiabertos?",
     "option1":"Rapou o cabelo",
     "option2":"Operou as mamas",
     "option3":"Posou nua",
-    "picture":"/assets/img/img_06.jpg"
+    "picture":"assets/img/img_06.jpg"
   },
   {
     "question":"Qual foi o pior ano da Britney Spears que fez dela uma princesa em queda?",
     "option1":"2007",
     "option2":"2010",
     "option3":"2003",
-    "picture":"/assets/img/img_07.jpg"
+    "picture":"assets/img/img_07.jpg"
   },
   {
     "question":"Em que filme Johnny Depp chegou bêbado na sua estreia?",
     "option1":"Assassinato no Orient Express",
     "option2":"Alice Do Outro Lado Do Espelho",
     "option3":"Sherlock Gnomes",
-    "picture":"/assets/img/img_08.jpg"
+    "picture":"assets/img/img_08.jpg"
   },
   {
     "question":"A quem teve que amortalhar a Lindsay Lohan quando foi condenada com serviços sociais para a comunidade e teve que trabalhar na morgue?",
     "option1":"Whitney Houston",
     "option2":"Amy Winehouse",
     "option3":"Michael Jackson",
-    "picture":"/assets/img/img_09.jpg"
+    "picture":"assets/img/img_09.jpg"
   },
   {
     "question":"Quem foi o primeiro ator a apontar Kevin Spacey por assédio?",
     "option1":"Anthony Rapp",
     "option2":"Roberto Cavazos",
     "option3":"Harvey Weinstein",
-    "picture":"/assets/img/img_10.jpg"
+    "picture":"assets/img/img_10.jpg"
   },
   {
     "question":"O que foi que confessou Kevin Spacey após ser acusado de assédio para que não se falara do assunto?",
     "option1":"Que era gay",
     "option2":"Que era alcoólico",
     "option3":"Que era toxicodependente",
-    "picture":"/assets/img/img_11.jpg"
+    "picture":"assets/img/img_11.jpg"
   },
   {
     "question":"Que empresa para a cual trabalhava Kevin Spacey, despediu-o pelo escândalo sexual?",
     "option1":"Netflix",
     "option2":"Fox",
     "option3":"Marvel",
-    "picture":"/assets/img/img_12.jpg"
+    "picture":"assets/img/img_12.jpg"
   },
   {
     "question":"Em que conhecidos prémios a Miley Cyrus causou um escândalo?",
     "option1":"MTV",
     "option2":"EMMY",
     "option3":"VMAS",
-    "picture":"/assets/img/img_13.jpg"
+    "picture":"assets/img/img_13.jpg"
   },
   {
     "question":"Com que cantor ficou a Miley Cyrus em roupa interior e dedicou-se a lambê-lo em 2013?",
     "option1":"Robin Thicke",
     "option2":"Justin Bieber",
     "option3":"Bruno Mars",
-    "picture":"/assets/img/img_14.jpg"
+    "picture":"assets/img/img_14.jpg"
   },
   {
     "question":"Em que ano a Miley Cyrus foi protagonista de um escândalo nos prémios MTV?",
     "option1":"2013",
     "option2":"2010",
     "option3":"2015",
-    "picture":"/assets/img/img_15.jpg"
+    "picture":"assets/img/img_15.jpg"
   },
   {
     "question":"Em que turnê a cantora Rihanna apareceu em shows da sua turnê bêbada ou drogada?",
     "option1":"Diamond World Tour",
     "option2":"Loud Tour",
     "option3":"Anti World Tour",
-    "picture":"/assets/img/img_16.jpg"
+    "picture":"assets/img/img_16.jpg"
   },
   {
     "question":"Em que estado a cantora Rihanna apareceu nos shows de sua turnê Diamond World Tour?",
     "option1":"bêbada ou drogada",
     "option2":"Enfurecida",
     "option3":"Cansada",
-    "picture":"/assets/img/img_17.jpg"
+    "picture":"assets/img/img_17.jpg"
   },
   {
     "question":"Com que idade a Drew Barrymore após o seu primeiro grande sucesso em E.T. se tornou toxicodependente?",
     "option1":"Aos nove anos",
     "option2":"Aos quinze anos",
     "option3":"Aos dezoito anos",
-    "picture":"/assets/img/img_18.jpg"
+    "picture":"assets/img/img_18.jpg"
   },
   {
     "question":"Em que gala dos Oscar, Michelle Williams acertou com este maravilhoso vestido de Vera Wang de cor mostarda que exibiu na passadeira vermelha?",
     "option1":"2006",
     "option2":"2010",
     "option3":"2003",
-    "picture":"/assets/img/img_19.jpg"
+    "picture":"assets/img/img_19.jpg"
   },
   {
     "question": "Em que gala dos Oscar caminhou elegantemente a Nicole Kidman neste Balenciaga em vermelho Valentino?",
     "option1": "2007",
     "option2": "2005",
     "option3": "2011",
-    "picture": "/assets/img/img_20.jpg"
+    "picture": "assets/img/img_20.jpg"
   }
 ]
 }

@@ -10,7 +10,7 @@ $stage = $_GET['stage'];
 
 ?>
 <script>
-    $("#<?php echo $stage; ?>").css('background-image', 'url(/assets/img/results_bg_desktop.jpg)');
+    $("#<?php echo $stage; ?>").css('background-image', 'url(assets/img/results_bg_desktop.jpg)');
 </script>
 
 <div align="center" class="container-results">
