@@ -41,7 +41,7 @@ $(document).ready(function () {
             questionBank[rnd2]=temp;
 
         }
-        numberOfQuestions = 1;
+        numberOfQuestions = 10;
     }
 
     //function to show the question
