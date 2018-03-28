@@ -15,8 +15,6 @@
     <link href="../assets/css/style.css" rel="stylesheet" type="text/css"/>
     <script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="assets/js/controller.js" data-lang="<?php echo $lang; ?>"></script>
-    <script type="text/javascript" src="assets/js/contact.js"></script>
-    
 
 
 </head>
